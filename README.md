@@ -2,8 +2,7 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 ### vmarangoni113@gmail.com - (19) 97413-2154
-### Endereço: Rua Ascenso Ferreira, 37 - Antônio Zanaga II
-### Bairro: Antônio Zanaga II - Americana
+### Americana - SP
 > "Em algum lugar, algo incrível está esperando para ser descoberto." - Carls Sagan
 
 ## 🎓 Escolaridade
