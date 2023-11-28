@@ -1,8 +1,6 @@
 # Olá, me chamo Victória ! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-
-![Minha Foto](eu.png)
 ### vmarangoni113@gmail.com - (19) 97413-2154
 ### Endereço: Rua Ascenso Ferreira, 37 - Antônio Zanaga II
 ### Bairro: Antônio Zanaga II - Americana
