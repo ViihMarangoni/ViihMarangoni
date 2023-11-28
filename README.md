@@ -15,7 +15,7 @@
 
 ## Estou aprendendo
 
-<img loading="lazy" src="https://th.bing.com/th/id/OIP.RCLNJ6GSO63DnEifGUIsNwAAAA?rs=1&pid=ImgDetMain" width="400" height="100"/> 
+<img loading="lazy" src="https://th.bing.com/th/id/OIP.RCLNJ6GSO63DnEifGUIsNwAAAA?rs=1&pid=ImgDetMain" width="400" height="200"/> 
 
 ### 👩‍💻 Tecnologias
 | Tech | Class |                    
