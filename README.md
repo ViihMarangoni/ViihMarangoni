@@ -15,7 +15,7 @@
 
 ## Estou aprendendo
 
-<img loading="lazy" src="https://img.favpng.com/0/10/13/cascading-style-sheets-javascript-html-css3-jquery-png-favpng-EGGfknrdZiCNYjAFKp62Dnpy7.jpg" width="" height=""/> 
+<img loading="lazy" src="https://th.bing.com/th/id/OIP.RCLNJ6GSO63DnEifGUIsNwAAAA?rs=1&pid=ImgDetMain" width="200" height="200"/> 
 
 ### 👩‍💻 Tecnologias
 | Tech | Class |                    
